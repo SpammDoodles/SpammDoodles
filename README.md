@@ -1,16 +1,24 @@
-## Hi there 👋
+# 🕵️‍♂️ The Secret Lab
 
-<!--
-**SpammDoodles/SpammDoodles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Proceed with caution... or don't.
 
-Here are some ideas to get you started:
+> "Some projects are just... experiments. Others are experiments in
+> chaos."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Current Status
+
+🧪 **Experiments running:** 42\
+💥 **Bugs unleashed:** too many\
+🕳️ **Known unknowns:** infinite\
+🔮 **Future horrors:** classified
+
+## 🗂️ Projects
+
+🌀 **project-alpha** --- Something happens here.\
+👾 **project-beta** --- Do not open after midnight.\
+💣 **project-gamma** --- Wait... what did this do again?
+
+⚠️ *Warning: Clicking links may cause existential crises.*\
+🔗 *Enter at your own risk.*
+
+👻 *Built with chaos, coffee, and curiosity.*
