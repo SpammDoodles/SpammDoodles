@@ -15,7 +15,7 @@ Proceed with caution... or don't.
 ## 🗂️ Projects
 
 🌀 **project-alpha** --- Something happens here.\
-👾 **project-beta** --- Do not open after midnight.\
+👾 **project-beta** --- Do not open after midnight.seriously\
 💣 **project-gamma** --- Wait... what did this do again?
 
 ⚠️ *Warning: Clicking links may cause existential crises.*\
