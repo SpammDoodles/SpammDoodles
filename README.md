@@ -21,4 +21,3 @@ Proceed with caution... or don't.
 ⚠️ *Warning: Clicking links may cause existential crises.*\
 🔗 *🔗 [Enter at your own risk](./DANGER.md)
 
-👻 *Built with chaos, coffee, and curiosity.*
