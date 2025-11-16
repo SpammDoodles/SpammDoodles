@@ -19,6 +19,6 @@ Proceed with caution... or don't.
 💣 **project-gamma** --- Wait... what did this do again?
 
 ⚠️ *Warning: Clicking links may cause existential crises.*\
-🔗 *Enter at your own risk.*
+🔗 *🔗 [Enter at your own risk](./DANGER.md)
 
 👻 *Built with chaos, coffee, and curiosity.*
