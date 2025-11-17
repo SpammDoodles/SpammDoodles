@@ -14,7 +14,7 @@ Proceed with caution... or don't.
 
 ## 🗂️ Projects
 
-🌀 **[project-alpha].(./[Project_alpha](https://github.com/SpammDoodles/Project_alpha))** --- Something happens here.\
+🌀 **(./[Project_alpha](https://github.com/SpammDoodles/Project_alpha))** --- Something happens here.\
 👾 **project-beta** --- Do not open after midnight.seriously\
 💣 **project-gamma** --- Wait... what did this do again?
 
