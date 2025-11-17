@@ -7,7 +7,7 @@ Proceed with caution... or don't.
 
 ## 📊 Current Status
 
-🧪 **Experiments running:** 42\
+🧪 **Experiments running:** not sure\
 💥 **Bugs unleashed:** too many\
 🕳️ **Known unknowns:** infinite\
 🔮 **Future horrors:** classified
