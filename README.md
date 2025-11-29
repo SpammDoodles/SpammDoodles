@@ -15,7 +15,7 @@ Proceed with caution... or don't.
 ## 🗂️ Projects
 
 🌀 **[Project_alpha](https://github.com/SpammDoodles/CryptoBank)** --- Something happens here.\
-👾 **project-beta** --- Do not open after midnight...seriously\
+👾 **[project-beta](https://github.com/SpammDoodles/Reverse-Guessing-Game)** --- Do not open after midnight...seriously\
 💣 **project-gamma** --- Wait... what did this do again?
 
 ⚠️ *Warning: Clicking links may cause existential crises.*\
