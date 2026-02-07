@@ -16,7 +16,7 @@ Proceed with caution... or don't.
 
 🌀 **[Project_alpha](https://github.com/SpammDoodles/CryptoBank)** --- Something happens here.\
 👾 **[project-beta](https://github.com/SpammDoodles/Reverse-Guessing-Game)** --- Do not open after midnight...seriously\
-💣 **project-gamma** --- Wait... what did this do again?
+💣 **[project-gamma](https://github.com/SpammDoodles/Simulated_Annealing_Timetable)** --- Wait... what did this do again?
 
 ⚠️ *Warning: Clicking links may cause existential crises.*\
 🔗 *🔗 [Enter at your own risk](./DANGER.md)
