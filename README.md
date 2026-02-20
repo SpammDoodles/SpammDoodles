@@ -17,8 +17,8 @@ Proceed with caution... or don't.
 🌀 **[Project-alpha](https://github.com/SpammDoodles/CryptoBank)** --- Something happens here.\
 👾 **[project-beta](https://github.com/SpammDoodles/Reverse-Guessing-Game)** --- Do not open after midnight...seriously\
 💣 **[project-gamma](https://github.com/SpammDoodles/Simulated_Annealing_Timetable)** --- Wait... what did this do again?\
-🧅 **[Project-onion](https://github.com/SpammDoodles/Student-Performance-Analyzer)** --- Peel carefully, you never know what’s inside
-💥 **[Project-eve](https://github.com/SpammDoodles/Machine-Learning-Course)** --- classified
+🧅 **[Project-onion](https://github.com/SpammDoodles/Student-Performance-Analyzer)** --- Peel carefully, you never know what’s inside\
+💥 **[Project-eve](https://github.com/SpammDoodles/Machine-Learning-Course)** --- classified information
 
 ⚠️ *Warning: Clicking links may cause existential crises.*\
 🔗 *🔗 [Enter at your own risk](./DANGER.md)
