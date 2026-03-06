@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=transparent&text=Istavuree&fontColor=0ea5e9&fontSize=42&height=120"
+    src="https://capsule-render.vercel.app/api?type=transparent&text=Mir Najam Younas&fontColor=0ea5e9&fontSize=42&height=120"
   />
 </p>
 
